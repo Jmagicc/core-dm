@@ -1,4 +1,4 @@
-module github.com/katell-coder/dm-core
+module github.com/katell-coder/core-dm
 
 go 1.17
 
